@@ -1,3 +1,9 @@
+# KLA Hackathon 2026 — AI-Based Restoration of Degraded Images
+
+Restoration pipeline for semiconductor inspection images degraded by speckle noise,
+additive Gaussian noise, and 2x downsampling. Restores 128x128 grayscale NoisyLR
+inputs to 256x256 clean outputs.
+
 ## Environment Setup
 
 ```bash
